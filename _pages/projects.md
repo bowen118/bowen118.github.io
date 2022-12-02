@@ -6,7 +6,7 @@ description: More coming soon!
 nav: true
 nav_order: 2
 display_categories: [2022, 2021]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
