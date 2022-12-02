@@ -4,7 +4,7 @@ title: slide zoom
 description: localizing regions of interest in whole slide images via reinforcement learning
 img: assets/img/rl_zoom_schematic.png
 importance: 2
-category: work
+category: 2022
 ---
 
 Presented at Discover Brigham 2021 (Research Excellence Award)

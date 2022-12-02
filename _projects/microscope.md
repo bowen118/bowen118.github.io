@@ -4,7 +4,7 @@ title: deep learning microscope
 description: real time, point-of-care pathology diagnosis via embedded deep learning
 img: assets/img/microscope_schematic.png
 importance: 1
-category: work
+category: 2021
 ---
 
 Presented at 

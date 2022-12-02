@@ -5,7 +5,7 @@ permalink: /projects/
 description: More coming soon!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [2022, 2021]
 horizontal: false
 ---
 
