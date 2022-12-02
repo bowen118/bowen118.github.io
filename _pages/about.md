@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a research
+I am a research assistant at the [Mahmood Lab](https://faisal.ai/) affiliated with the [Brigham and Women's Hospital](https://www.brighamandwomens.org/) and [Massachusetts General Hospital](https://www.massgeneral.org/) in Boston, MA. 
