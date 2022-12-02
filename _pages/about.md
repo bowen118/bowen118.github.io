@@ -15,6 +15,8 @@ profile:
 
 # news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+posters: false # includes a list of posters marked as "poster={true}"
+awards: false # includes a list of awards
 social: false  # includes social icons at the bottom of the page
 ---
 
