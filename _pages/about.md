@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate at the <a href='https://faisal.ai/'>Mahmood Lab</a> \| BWH \| MGH
+subtitle: Research Associate at the <a href='https://faisal.ai/'>Mahmood Lab</a> | BWH | MGH
 cv_pdf: cv.pdf
 
 profile:
