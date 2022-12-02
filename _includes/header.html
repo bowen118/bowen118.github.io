@@ -96,7 +96,7 @@
               {% endfor -%}
               {% if site.enable_navbar_cv %}
               <li class="nav-item">
-                <a class="nav-link" href="{{ cv.pdf | prepend: 'assets/pdf/' | relative_url}}">cv</a>
+                <a class="nav-link" href="{{ 'cv.pdf' | prepend: 'assets/pdf/' | relative_url}}">cv</a>
               </li>
               {%- endif %}
 
