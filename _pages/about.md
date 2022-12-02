@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate at the <a href='https://faisal.ai/'>Mahmood Lab</a> | BWH | MGH
+subtitle: I am interested in AI for healthcare
 
 profile:
   align: right
@@ -19,3 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a research assistant at the [Mahmood Lab](https://faisal.ai/) affiliated with the [Brigham and Women's Hospital](https://www.brighamandwomens.org/) and [Massachusetts General Hospital](https://www.massgeneral.org/) in Boston, MA. 
+
+I studied Computer Science and Statistics at Harvard (2018--2022).
+
+My research interests are computer vision, natural language processing, representation learning, and how they are used to solve problems in medicine and healthcare.
