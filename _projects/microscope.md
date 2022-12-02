@@ -2,7 +2,7 @@
 layout: page
 title: deep learning microscope
 description: real time, point-of-care pathology diagnosis via embedded deep learning
-img: assets/img/12.jpg
+img: assets/img/microscope_schematic.png
 importance: 1
 category: work
 ---
@@ -15,7 +15,7 @@ Presented at
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pv21_poster.png" title="AI microscope" class="img-fluid rounded z-depth-1" link="assets/pdf/pv21_poster.pdf %}
     </div>
 </div>
 <div class="caption">
