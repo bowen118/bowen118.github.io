@@ -16,3 +16,12 @@ nav_order: 1
 {% endfor %}
 
 </div>
+
+<div class="posters">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}} && selected=true]* %}
+{% endfor %}
+
+</div>
