@@ -6,9 +6,6 @@ description: publications in reversed chronological order.
 years: [2023, 2022, 2021]
 nav: true
 nav_order: 1
-scholar:
-  last_name: [Chen, Chen*]
-  first_name: [Bowen, B.]
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
