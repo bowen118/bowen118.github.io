@@ -20,7 +20,7 @@ awards: false # includes a list of awards
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [Stanford DBDS](https://dbds.stanford.edu/). Previously, I worked on AI for pathology advised by Professor [Faisal Mahmood](https://faisal.ai/). For undergrad, I studied Computer Science and Statistics at Harvard (2018--2022).
-<!-- I am a research assistant at the [Mahmood Lab](https://faisal.ai/) affiliated with the [Brigham and Women's Hospital](https://www.brighamandwomens.org/) and [Massachusetts General Hospital](https://www.massgeneral.org/) in Boston, MA.  -->
+I am a PhD student at [Stanford DBDS](https://dbds.stanford.edu/) advised by Professor [James Zou](https://www.james-zou.com/). Currently, I am working on AI for healthcare. 
 
-Currently, I am working on AI for healthcare. 
+Previously, I worked on AI for pathology advised by Professor [Faisal Mahmood](https://faisal.ai/). For undergrad, I studied Computer Science and Statistics at Harvard (2018--2022).
+<!-- I am a research assistant at the [Mahmood Lab](https://faisal.ai/) affiliated with the [Brigham and Women's Hospital](https://www.brighamandwomens.org/) and [Massachusetts General Hospital](https://www.massgeneral.org/) in Boston, MA.  -->
